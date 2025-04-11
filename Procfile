@@ -1,1 +1,1 @@
-python nazu.py
+worker: python nazu.py
