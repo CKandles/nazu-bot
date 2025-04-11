@@ -1,0 +1,1 @@
+python nazu.py
